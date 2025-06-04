@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnnyTeta
 - 👀 I’m interested in software development, front and back-end, web, mobile, desktop and cloud-native applications.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on Java, Spring Boot, React and React-Native projects
 - 📫 How to reach me dev.joao.teta@gmail.com  
 - 😄 Pronouns: ...
